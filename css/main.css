@@ -2,10 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-.navbar {
-  overflow: hidden;
-  background-color: #E5E4E2;
-}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
