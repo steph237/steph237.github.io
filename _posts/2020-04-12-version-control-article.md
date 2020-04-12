@@ -96,7 +96,7 @@ that make it so important
     </p>
     <li>
         
-           ### GitLab
+           <h3>GitLab</h3>
         
         <p>GitLab just like GitHub comes with a lof of handy features like an integrated project, a project website,
             etc. Using the continuous intergration(CI) capabilitoes of GitLab, you can automatically test and deliver
