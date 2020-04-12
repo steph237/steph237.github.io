@@ -98,8 +98,10 @@ that make it so important
         <h3>
             <p>GitLab<p>
         </h3>
-       <p>GitLab just like GitHub comes with a lof of handy features like an integrated project, a project website, etc. Using the continuous intergration(CI) capabilitoes of GitLab, you can automatically test and deliver
-the code. All the aspects of the project that is; view code, pull requests, and combine the conflict resolution can be accessed by GitLab</p>
+        <p>GitLab just like GitHub comes with a lof of handy features like an integrated project, a project website,
+            etc. Using the continuous intergration(CI) capabilitoes of GitLab, you can automatically test and deliver
+            the code. All the aspects of the project that is; view code, pull requests, and combine the conflict
+            resolution can be accessed by GitLab</p>
     </li>
 
     <p>
@@ -185,5 +187,3 @@ the code. All the aspects of the project that is; view code, pull requests, and 
 
 
 <p>Thank you for reading and dont forget to send your reviews to my email below !!!</p>
-
-
