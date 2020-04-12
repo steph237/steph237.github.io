@@ -71,6 +71,36 @@ It has the following key features inventory management, security management, his
 The disk space use by working copies is almost double due to the way SVN organizes its working files.</li>
     <li>Faster on Linux and slower on Windows. Apache Subversion can be improved by increasing its checkout, update and commit speeds on Windows.</li>
   </ul>
+  <h3>Mercurial</h3>
+  Mercurial is known for its efficiency in handling projects of all sizes. It is a free and distributed control management service that provides a simple and intuitive user interface.
+Developers and enterprises adore Mercurial for its backup system, search functionality, project tracking and management, data import and export, and data migration tool. It also features workflow management, history tracking, security management, access controls and more.
+  <h4>Pros</h4>
+  <ul>
+    <li>Easy to learn</li>
+    <li>Really good at merging</li>
+    <li>It has a built in web-server</li>
+    <li>Bookmarks in mercurial share a single name space</li>
+  </ul>
+  <h4>Cons</h4>
+  <ul>
+    <li>Addons must be written in Python</li>
+    <li>Can not round trip convert Mercurial repository to a Git one then back again without any loss of data</li>
+  </ul>
+</ol> 
+<p> Alot of other version control software exists such as AWS CodeCommit, PerForce, Microsoft Team Foundation Server, CVS Version Control (Concurrent Versions System). it should be noted that CVS is one of the oldest version control system and is a well-known tool among both commercial and open source developers. It allows you to check out the code you are planning to work on, and check-in the changes.</p>
+</br>
+
+<p>I hope you now have a basic understanding of what version control systems are and also hope this article helps you to make a choice on which of them to use.</p>
+</br>
+Thank you for reading and dont forget to send your reviews to my email below !!!
+
+  
+
+    
+    
+ 
+    
+    
     
   
   
