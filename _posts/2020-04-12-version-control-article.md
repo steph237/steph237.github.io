@@ -13,7 +13,7 @@ to find the errrors.
 <h2> HOW USEFUL IS VERSION CONTROL TO NOVICE AND PROFESSIONALS</h2>
 Working with a version control system is as important to a novice as it is to a professional. Lets see the key points
 that make it so important
-<ol>
+<ul>
     <li>
         <h3>No data loss</h3>
         <p>
@@ -60,7 +60,7 @@ that make it so important
 
 <h2>EXAMPLES OF VERSION CONTROL SYSTEMS</h2>
 <p> There are a whole lot of version control systems or softwares out there and we will list a few of them</p>
-<ol>
+<ul>
     <li>
         <h3>
             <p>GitHub</p>
