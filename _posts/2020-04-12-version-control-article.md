@@ -14,8 +14,14 @@ Working with a version control system is as important to a novice as it is to a 
   <li><h3>Storage</h3>A version control system acknowledges that there is only one project. Therefore, there's only the one version on your disk that you're currently working on. Everything else, all the past versions and variants are neatly packed up inside the Version Control software. When you need it, you can request any version at any time and you'll have a snapshot of the complete project right at hand.</li>
   <li><h3>Trouble shooting</h3>Another great use for versioning is when troubleshooting an issue, you are able to easily compare different versions of files to track differences. You can compare the last working file with the faulty file, decreasing the time spent identifying the cause of an issue. and the user can also decide to roll back the changes, you can implement the last working file by using the correct version.</li>
   <li><h3>Taking note of the changes made</h3>Every time you save a new version of your project, your Version control software requires you to provide a short description(commit changes) of what was changed. Additionally (if it's a code / text file), you can see what exactly was changed in the file's content. This helps you understand how your project evolved between versions.</li>
-<ol>
   <li><h3>Code tracking</h3>Version control allows one the ability to keep track of application builds by being able to identify which version is currently in development </li>
+ </ol>
+ <h2>EXAMPLES OF VERSION CONTROL SYSTEMS</h2>
+ <p> There are a whole lot of version control systems or softwares out there and we will list a few of them</p>
+ <ol>
+  <li><h3>GitHub</h3>
+    As a developer or aspiring to be one, we must have come across the name GitHub one way or the other.GitHub simply helps an individual or teams of software to maintain the entire history of all the changes made to the code presently being worked on. The changes of the code can be tracked, "turn back the clock" to undo the errors and share your efforts and worries with other team members. This obviously makes the work easier and faster. 
+    GitHub is a repository to host Git projects. I know you are wondering what Git is but don't worry, I got you. It is an open source version control system that features local branching, multiple workflows, and convenient staging areas.Git version control is really easy to learn and it offers faster operation speed too. Lets check out the pros and cons of using GitHub</li>
   
 
 
