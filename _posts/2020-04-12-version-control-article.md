@@ -71,7 +71,7 @@ It has the following key features inventory management, security management, his
 The disk space use by working copies is almost double due to the way SVN organizes its working files.</li>
     <li>Faster on Linux and slower on Windows. Apache Subversion can be improved by increasing its checkout, update and commit speeds on Windows.</li>
   </ul>
-  <h3>Mercurial</h3>
+ <li><h3>Mercurial</h3></li>
   Mercurial is known for its efficiency in handling projects of all sizes. It is a free and distributed control management service that provides a simple and intuitive user interface.
 Developers and enterprises adore Mercurial for its backup system, search functionality, project tracking and management, data import and export, and data migration tool. It also features workflow management, history tracking, security management, access controls and more.
   <h4>Pros</h4>
