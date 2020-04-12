@@ -9,19 +9,22 @@ As a developer, you have most likely come in contact with Verion sofwarers like 
 <h2> HOW USEFUL IS VERSION CONTROL TO NOVICE AND PROFESSIONALS</h2>
 Working with a version control system is as important to a novice as it is to a professional. Lets see the key points that make it so important
 <ol>
-  <li><h3>No data loss</h3>Nothing that is committed to version control is ever lost, unless you work really, really hard at it. Since all old versions of files are saved, it’s always possible to go back in time to see exactly who wrote what on a particular day, or what version of a program was used to generate a particular set of results.</li>
-  <li><h3>Working as a team</h3> Version control particularly encourages team work as many individuals can work on the same project and make necessary changes to that project. As we have this record of who made what changes when, we know who to ask if we have questions later on, and, if needed, revert to a previous version, much like the “undo” feature in an editor.</li>
-  <li><h3>Storage</h3>A version control system acknowledges that there is only one project. Therefore, there's only the one version on your disk that you're currently working on. Everything else, all the past versions and variants are neatly packed up inside the Version Control software. When you need it, you can request any version at any time and you'll have a snapshot of the complete project right at hand.</li>
-  <li><h3>Trouble shooting</h3>Another great use for versioning is when troubleshooting an issue, you are able to easily compare different versions of files to track differences. You can compare the last working file with the faulty file, decreasing the time spent identifying the cause of an issue. and the user can also decide to roll back the changes, you can implement the last working file by using the correct version.</li>
-  <li><h3>Taking note of the changes made</h3>Every time you save a new version of your project, your Version control software requires you to provide a short description(commit changes) of what was changed. Additionally (if it's a code / text file), you can see what exactly was changed in the file's content. This helps you understand how your project evolved between versions.</li>
-  <li><h3>Code tracking</h3>Version control allows one the ability to keep track of application builds by being able to identify which version is currently in development </li>
+  <li><h3>No data loss</h3><p>
+    Nothing that is committed to version control is ever lost, unless you work really, really hard at it. Since all old versions of files are saved, it’s always possible to go back in time to see exactly who wrote what on a particular day, or what version of a program was used to generate a particular set of results.</p></li>
+  <li><h3>Working as a team</h3> <p>Version control particularly encourages team work as many individuals can work on the same project and make necessary changes to that project. As we have this record of who made what changes when, we know who to ask if we have questions later on, and, if needed, revert to a previous version, much like the “undo” feature in an editor.</p></li>
+  <li><h3>Storage</h3>
+    <p>A version control system acknowledges that there is only one project. Therefore, there's only the one version on your disk that you're currently working on. Everything else, all the past versions and variants are neatly packed up inside the Version Control software. When you need it, you can request any version at any time and you'll have a snapshot of the complete project right at hand.</p></li>
+  <li><h3>Trouble shooting</h3>
+    <p>Another great use for versioning is when troubleshooting an issue, you are able to easily compare different versions of files to track differences. You can compare the last working file with the faulty file, decreasing the time spent identifying the cause of an issue. and the user can also decide to roll back the changes, you can implement the last working file by using the correct version.<p></li>
+  <li><h3>Taking note of the changes made</h3><p>Every time you save a new version of your project, your Version control software requires you to provide a short description(commit changes) of what was changed. Additionally (if it's a code / text file), you can see what exactly was changed in the file's content. This helps you understand how your project evolved between versions.</p></li>
+  <li><h3>Code tracking</h3><p>Version control allows one the ability to keep track of application builds by being able to identify which version is currently in development </p></li>
  </ol>
  <h2>EXAMPLES OF VERSION CONTROL SYSTEMS</h2>
  <p> There are a whole lot of version control systems or softwares out there and we will list a few of them</p>
  <ol>
   <li><h3>GitHub</h3>
-    As a developer or aspiring to be one, we must have come across the name GitHub one way or the other.GitHub simply helps an individual or teams of software to maintain the entire history of all the changes made to the code presently being worked on. The changes of the code can be tracked, "turn back the clock" to undo the errors and share your efforts and worries with other team members. This obviously makes the work easier and faster. 
-    GitHub is a repository to host Git projects. I know you are wondering what Git is but don't worry, I got you. It is an open source version control system that features local branching, multiple workflows, and convenient staging areas.Git version control is really easy to learn and it offers faster operation speed too. Lets check out the pros and cons of using GitHub</li>
+   <p> As a developer or aspiring to be one, we must have come across the name GitHub one way or the other.GitHub simply helps an individual or teams of software to maintain the entire history of all the changes made to the code presently being worked on. The changes of the code can be tracked, "turn back the clock" to undo the errors and share your efforts and worries with other team members. This obviously makes the work easier and faster. 
+    GitHub is a repository to host Git projects. I know you are wondering what Git is but don't worry, I got you. It is an open source version control system that features local branching, multiple workflows, and convenient staging areas.Git version control is really easy to learn and it offers faster operation speed too. Lets check out the pros and cons of using GitHub</p></li>
   <h4>Pros</h4>
   <ul>
     <li>GitHub makes it easy to research and find what code changed and when it was altered</li>
@@ -38,7 +41,7 @@ Working with a version control system is as important to a novice as it is to a 
     <li>Support could be slow to respond</li>
   </ul>
  <li><h3>GitLab</h3>
-   Gitlab just like GitHub comes with a lot of handy features like an integrated project, a project website, etc. Using the continuous integration (CI) capabilities of GitLab, you can automatically test and deliver the code.All the aspects of the project that is; view code, pull requests, and combine the cnonflict resolution can be accessed by GitLab.</li>
+   <p>Gitlab just like GitHub comes with a lot of handy features like an integrated project, a project website, etc. Using the continuous integration (CI) capabilities of GitLab, you can automatically test and deliver the code.All the aspects of the project that is; view code, pull requests, and combine the cnonflict resolution can be accessed by GitLab.</p></li>
   
    <h4>Pros</h4>
    <ul>
@@ -54,8 +57,8 @@ Working with a version control system is as important to a novice as it is to a 
     <li>Smaller community for Open Source projects</li>
   </ul>
  <li><h3>Apache subversion</h3>
-   Apache Subversion is another open source version control system, which was founded by CollabNet a couple of decades ago. Both open source arena and enterprises consider it a reliable option for valuable data.
-It has the following key features inventory management, security management, history tracking, user access controls, cheap local branching, and workflow management.
+   <p>Apache Subversion is another open source version control system, which was founded by CollabNet a couple of decades ago. Both open source arena and enterprises consider it a reliable option for valuable data.
+It has the following key features inventory management, security management, history tracking, user access controls, cheap local branching, and workflow management.</p>
   <h4>Pros</h4>
     <ul>
       <li>Revision control done properly, you have end to end visibility of all changes in the project.<li>
@@ -63,7 +66,7 @@ It has the following key features inventory management, security management, his
       <li>Can be used from many locations, like a cloud-based system but with more custom control,and the best part is its free!</li>
       <li>Very stable, with lots of additional tools to help maintain and examine repositories (e.g. websvn)</li>
       <li>User friendly and easy to learn and understand</li>
-   </ul>
+    </ul>
   <h4>Cons</h4>
   <ul>
     <li>The installation requires some initial configuration</li>
@@ -72,8 +75,8 @@ The disk space use by working copies is almost double due to the way SVN organiz
     <li>Faster on Linux and slower on Windows. Apache Subversion can be improved by increasing its checkout, update and commit speeds on Windows.</li>
   </ul>
  <li><h3>Mercurial</h3></li>
-  Mercurial is known for its efficiency in handling projects of all sizes. It is a free and distributed control management service that provides a simple and intuitive user interface.
-Developers and enterprises adore Mercurial for its backup system, search functionality, project tracking and management, data import and export, and data migration tool. It also features workflow management, history tracking, security management, access controls and more.
+  <p>Mercurial is known for its efficiency in handling projects of all sizes. It is a free and distributed control management service that provides a simple and intuitive user interface.
+Developers and enterprises adore Mercurial for its backup system, search functionality, project tracking and management, data import and export, and data migration tool. It also features workflow management, history tracking, security management, access controls and more.</p>
   <h4>Pros</h4>
   <ul>
     <li>Easy to learn</li>
@@ -85,14 +88,14 @@ Developers and enterprises adore Mercurial for its backup system, search functio
   <ul>
     <li>Addons must be written in Python</li>
     <li>Can not round trip convert Mercurial repository to a Git one then back again without any loss of data</li>
-  </ul>
-</ol> 
+  </ul></ol> 
 <p> Alot of other version control software exists such as AWS CodeCommit, PerForce, Microsoft Team Foundation Server, CVS Version Control (Concurrent Versions System). it should be noted that CVS is one of the oldest version control system and is a well-known tool among both commercial and open source developers. It allows you to check out the code you are planning to work on, and check-in the changes.</p>
 </br>
 
 <p>I hope you now have a basic understanding of what version control systems are and also hope this article helps you to make a choice on which of them to use.</p>
 </br>
-Thank you for reading and dont forget to send your reviews to my email below !!!
+
+<p>Thank you for reading and dont forget to send your reviews to my email below !!!</p>
 
   
 
