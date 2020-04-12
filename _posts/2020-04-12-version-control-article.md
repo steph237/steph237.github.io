@@ -10,6 +10,13 @@ As a developer, you have most likely come in contact with Verion sofwarers like 
 Working with a version control system is as important to a novice as it is to a professional. Lets see the key points that make it so important
 <ol>
   <li><h3>No data loss</h3>Nothing that is committed to version control is ever lost, unless you work really, really hard at it. Since all old versions of files are saved, it’s always possible to go back in time to see exactly who wrote what on a particular day, or what version of a program was used to generate a particular set of results.</li>
-  <li><h3>No data loss</h3>
+  <li><h3>Working as a team</h3> Version control particularly encourages team work as many individuals can work on the same project and make necessary changes to that project. As we have this record of who made what changes when, we know who to ask if we have questions later on, and, if needed, revert to a previous version, much like the “undo” feature in an editor.</li>
+  <li><h3>Storage</h3>A version control system acknowledges that there is only one project. Therefore, there's only the one version on your disk that you're currently working on. Everything else, all the past versions and variants are neatly packed up inside the Version Control software. When you need it, you can request any version at any time and you'll have a snapshot of the complete project right at hand.</li>
+  <li><h3>Trouble shooting</h3>Another great use for versioning is when troubleshooting an issue, you are able to easily compare different versions of files to track differences. You can compare the last working file with the faulty file, decreasing the time spent identifying the cause of an issue. and the user can also decide to roll back the changes, you can implement the last working file by using the correct version.</li>
+  <li><h3>Taking note of the changes made</h3>Every time you save a new version of your project, your Version control software requires you to provide a short description(commit changes) of what was changed. Additionally (if it's a code / text file), you can see what exactly was changed in the file's content. This helps you understand how your project evolved between versions.</li>
+<ol>
+  <li><h3>Code tracking</h3>Version control allows one the ability to keep track of application builds by being able to identify which version is currently in development </li>
+  
+
 
 
