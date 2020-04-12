@@ -22,6 +22,23 @@ Working with a version control system is as important to a novice as it is to a 
   <li><h3>GitHub</h3>
     As a developer or aspiring to be one, we must have come across the name GitHub one way or the other.GitHub simply helps an individual or teams of software to maintain the entire history of all the changes made to the code presently being worked on. The changes of the code can be tracked, "turn back the clock" to undo the errors and share your efforts and worries with other team members. This obviously makes the work easier and faster. 
     GitHub is a repository to host Git projects. I know you are wondering what Git is but don't worry, I got you. It is an open source version control system that features local branching, multiple workflows, and convenient staging areas.Git version control is really easy to learn and it offers faster operation speed too. Lets check out the pros and cons of using GitHub</li>
+  <h4>Pros</h4>
+  <ul>
+    <li>GitHub makes it easy to research and find what code changed and when it was altered</li>
+    <li>GitHub is used by virtually all major open source projects so it's very easy to find and contribute to projects of interest if you're well versed with GitHub.</li>
+    <li>GitHub is reliable and dependable.</li>
+    <li>GitHub is easy to integrate with other tools.</li>
+    <li>GitHub provides a nice and easy web-based UI for ineracting with your central Git repository</li>
+    <li>GitHub facilitates working with multiple branches, forks, and pull requests, all different aspects of having multiple people working on the same code simultaneously which makes it really cool </li>
+  </ul>
+  <h4>Cons</h4>
+  <ul>
+    <li>If you are new to GitHub, navigating around a GitHub repo can be a little confusing</li>
+    <li>GitHub has poor search features even for popular languages</li>
+    <li>Support could be slow to respond</li>
+  </ul>
+    
+
   
 
 
