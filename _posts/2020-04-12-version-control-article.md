@@ -22,7 +22,7 @@ Working with a version control system is as important to a novice as it is to a 
  <h2>EXAMPLES OF VERSION CONTROL SYSTEMS</h2>
  <p> There are a whole lot of version control systems or softwares out there and we will list a few of them</p>
  <ol>
-  <li><h3>GitHub</h3>
+  <li><h3><p>GitHub</p></h3>
    <p> As a developer or aspiring to be one, we must have come across the name GitHub one way or the other.GitHub simply helps an individual or teams of software to maintain the entire history of all the changes made to the code presently being worked on. The changes of the code can be tracked, "turn back the clock" to undo the errors and share your efforts and worries with other team members. This obviously makes the work easier and faster. 
     GitHub is a repository to host Git projects. I know you are wondering what Git is but don't worry, I got you. It is an open source version control system that features local branching, multiple workflows, and convenient staging areas.Git version control is really easy to learn and it offers faster operation speed too. Lets check out the pros and cons of using GitHub</p></li>
   <h4>Pros</h4>
@@ -40,7 +40,7 @@ Working with a version control system is as important to a novice as it is to a 
     <li>GitHub has poor search features even for popular languages</li>
     <li>Support could be slow to respond</li>
   </ul>
- <li><h3>GitLab</h3>
+ <li><h3><p>GitLab<p></h3>
    <p>Gitlab just like GitHub comes with a lot of handy features like an integrated project, a project website, etc. Using the continuous integration (CI) capabilities of GitLab, you can automatically test and deliver the code.All the aspects of the project that is; view code, pull requests, and combine the cnonflict resolution can be accessed by GitLab.</p></li>
   
    <h4>Pros</h4>
@@ -56,7 +56,7 @@ Working with a version control system is as important to a novice as it is to a 
     <li>There have been some GUI issues.</li>
     <li>Smaller community for Open Source projects</li>
   </ul>
- <li><h3>Apache subversion</h3>
+ <li><h3><p>Apache subversion</p></h3>
    <p>Apache Subversion is another open source version control system, which was founded by CollabNet a couple of decades ago. Both open source arena and enterprises consider it a reliable option for valuable data.
 It has the following key features inventory management, security management, history tracking, user access controls, cheap local branching, and workflow management.</p>
   <h4>Pros</h4>
@@ -67,14 +67,14 @@ It has the following key features inventory management, security management, his
       <li>Very stable, with lots of additional tools to help maintain and examine repositories (e.g. websvn)</li>
       <li>User friendly and easy to learn and understand</li>
     </ul>
-  <h4>Cons</h4>
-  <ul>
+ <h4>Cons</h4>
+ <ul>
     <li>The installation requires some initial configuration</li>
     <li>
 The disk space use by working copies is almost double due to the way SVN organizes its working files.</li>
     <li>Faster on Linux and slower on Windows. Apache Subversion can be improved by increasing its checkout, update and commit speeds on Windows.</li>
-  </ul>
- <li><h3>Mercurial</h3></li>
+ </ul>
+<li><h3><p>Mercurial</p></h3></li>
   <p>Mercurial is known for its efficiency in handling projects of all sizes. It is a free and distributed control management service that provides a simple and intuitive user interface.
 Developers and enterprises adore Mercurial for its backup system, search functionality, project tracking and management, data import and export, and data migration tool. It also features workflow management, history tracking, security management, access controls and more.</p>
   <h4>Pros</h4>
@@ -88,12 +88,12 @@ Developers and enterprises adore Mercurial for its backup system, search functio
   <ul>
     <li>Addons must be written in Python</li>
     <li>Can not round trip convert Mercurial repository to a Git one then back again without any loss of data</li>
-  </ul></ol> 
+  </ul>
 <p> Alot of other version control software exists such as AWS CodeCommit, PerForce, Microsoft Team Foundation Server, CVS Version Control (Concurrent Versions System). it should be noted that CVS is one of the oldest version control system and is a well-known tool among both commercial and open source developers. It allows you to check out the code you are planning to work on, and check-in the changes.</p>
-</br>
+
 
 <p>I hope you now have a basic understanding of what version control systems are and also hope this article helps you to make a choice on which of them to use.</p>
-</br>
+
 
 <p>Thank you for reading and dont forget to send your reviews to my email below !!!</p>
 
