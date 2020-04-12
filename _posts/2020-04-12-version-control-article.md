@@ -44,7 +44,7 @@ that make it so important
             versions of files to track differences. You can compare the last working file with the faulty file,
             decreasing the time spent identifying the cause of an issue. and the user can also decide to roll back the
             changes, you can implement the last working file by using the correct version.<p>
-    </li>
+    
     <li>
         <h3>Taking note of the changes made</h3>
         <p>Every time you save a new version of your project, your Version control software requires you to provide a
@@ -57,7 +57,7 @@ that make it so important
         <p>Version control allows one the ability to keep track of application builds by being able to identify which
             version is currently in development </p>
     </li>
-</ol>
+
 <h2>EXAMPLES OF VERSION CONTROL SYSTEMS</h2>
 <p> There are a whole lot of version control systems or softwares out there and we will list a few of them</p>
 <ol>
@@ -97,12 +97,12 @@ that make it so important
     <li>
         <h3>
             <p>GitLab<p>
-        </h3>
+        
         <p>GitLab just like GitHub comes with a lof of handy features like an integrated project, a project website,
             etc. Using the continuous intergration(CI) capabilitoes of GitLab, you can automatically test and deliver
             the code. All the aspects of the project that is; view code, pull requests, and combine the conflict
             resolution can be accessed by GitLab</p>
-    </li>
+    
 
     <p>
         <h4>Pros</h4>
@@ -138,7 +138,7 @@ that make it so important
                 <li>Very stable, with lots of additional tools to help maintain and examine repositories (e.g. websvn)
                 </li>
                 <li>User friendly and easy to learn and understand</li>
-            </ul>
+            
             <h4>Cons</h4>
             <ul>
                 <li>The installation requires some initial configuration</li>
@@ -148,7 +148,7 @@ that make it so important
                 <li>Faster on Linux and slower on Windows. Apache Subversion can be improved by increasing its checkout,
                     update and commit speeds on Windows.</li>
             </ul>
-        </p>
+        
     <li>
         <h3>
             <p>Mercurial</p>
@@ -160,8 +160,8 @@ that make it so important
             management, data import and export, and data migration tool. It also features workflow management, history
             tracking, security management, access controls and more.</p>
         <p>
-    </li>
-    <h4>Pros</h4>
+    
+    <h4><p>Pros</p></h4>
     <ul>
         <li>Easy to learn</li>
         <li>Really good at merging</li>
@@ -175,7 +175,7 @@ that make it so important
         </li>
     </ul>
     </p>
-</ol>
+
 <p> Alot of other version control software exists such as AWS CodeCommit, PerForce, Microsoft Team Foundation
     Server, CVS Version Control (Concurrent Versions System). it should be noted that CVS is one of the oldest
     version control system and is a well-known tool among both commercial and open source developers. It allows you
