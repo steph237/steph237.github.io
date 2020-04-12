@@ -37,7 +37,25 @@ Working with a version control system is as important to a novice as it is to a 
     <li>GitHub has poor search features even for popular languages</li>
     <li>Support could be slow to respond</li>
   </ul>
-    
+ <li><h3>GitLab</h3>
+   Gitlab just like GitHub comes with a lot of handy features like an integrated project, a project website, etc. Using the continuous integration (CI) capabilities of GitLab, you can automatically test and deliver the code.All the aspects of the project that is; view code, pull requests, and combine the cnonflict resolution can be accessed by GitLab.</li>
+  
+   <h4>Pros</h4>
+   <ul>
+     <li>Merge request management.</li>
+     <li>Gitlab hosts your code and provides build servers all in one solution.</li>
+     <li>Pull requests and code reviews are all easy within Gitlab</li>
+     <li>Issue tracking and wiki functionality</li>
+  </ul>
+  <h4>Cons</h4>
+  <ul>
+    <li>Must restart it when we upgrade it, upgrade processes tend to be problematic</li>
+    <li>There have been some GUI issues.</li>
+    <li>Smaller community for Open Source projects</li>
+  </ul>
+  
+      
+   
 
   
 
