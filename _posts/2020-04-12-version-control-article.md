@@ -5,7 +5,7 @@ date: 2020-04-12
 ---
 <h2>WHAT IS VERSION CONTROL</h2>
 As a developer, you have most likely come in contact with Verion sofwarers like Git and I am guessing you were as
-confused as I was when i heard it. Basically, these systems are a category of software tools that help a software team
+confused as I was when I heard it. Basically, these systems are a category of software tools that help a software team
 manage changes to source code over time. Version control software keeps track of every modification to the code in a
 special kind of database. If a mistake is made, developers can go back to earlier versions of the code and compare them
 to find the errrors.
@@ -95,8 +95,8 @@ that make it so important
         </ul>
     </p>
     <li>
-        <h3>
-            <p>GitLab<p>
+        
+           ### GitLab
         
         <p>GitLab just like GitHub comes with a lof of handy features like an integrated project, a project website,
             etc. Using the continuous intergration(CI) capabilitoes of GitLab, you can automatically test and deliver
