@@ -53,6 +53,26 @@ Working with a version control system is as important to a novice as it is to a 
     <li>There have been some GUI issues.</li>
     <li>Smaller community for Open Source projects</li>
   </ul>
+ <li><h3>Apache subversion</h3>
+   Apache Subversion is another open source version control system, which was founded by CollabNet a couple of decades ago. Both open source arena and enterprises consider it a reliable option for valuable data.
+It has the following key features inventory management, security management, history tracking, user access controls, cheap local branching, and workflow management.
+  <h4>Pros</h4>
+    <ul>
+      <li>Revision control done properly, you have end to end visibility of all changes in the project.<li>
+      <li>Rollbacks are made simple and easy to use</li>
+      <li>Can be used from many locations, like a cloud-based system but with more custom control,and the best part is its free!</li>
+      <li>Very stable, with lots of additional tools to help maintain and examine repositories (e.g. websvn)</li>
+      <li>User friendly and easy to learn and understand</li>
+   </ul>
+  <h4>Cons</h4>
+  <ul>
+    <li>The installation requires some initial configuration</li>
+    <li>
+The disk space use by working copies is almost double due to the way SVN organizes its working files.</li>
+    <li>Faster on Linux and slower on Windows. Apache Subversion can be improved by increasing its checkout, update and commit speeds on Windows.</li>
+  </ul>
+    
+  
   
       
    
